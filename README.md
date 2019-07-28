@@ -1,5 +1,5 @@
 # Manipal-Codefundo
-GitHub repo for codefundo - JASON PETER ANDREWS
+GitHub repository for Codefundo++ : JASON PETER ANDREWS
 MIT, Manipal
 
 OVERVIEW:
