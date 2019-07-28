@@ -2,6 +2,8 @@
 GitHub repository for Codefundo++ : JASON PETER ANDREWS
 MIT, Manipal
 
+THEME: DECISION HELPER - Using Azure Blockchain, I plan to build an online service that could help a voter decide which candidate to vote for based on metrics like - Promises made vs. Promises Kept, Attendance in the House, Criminal Record, Fund Utilization, Questions asked in the House, Number of Debates participated in, etc.
+
 OVERVIEW:
   In this age of modern communication, the attention of people is entirely devoted to devices such as laptops, computers and most popularly, smartphones. And in this age, online information such as news articles, blog posts, youtube videos, and social media governs what people see and understand. The future decisions of people are completely influenced by what they see online, regardless of whether the information is true or false. These days, it is very hard to distinguish between authentic news and fake, spam or hoax news(https://www.bbc.com/news/world-asia-india-47797151). Most recently, the US presidential elections have been rumored to have been swayed by external sources:
   
@@ -30,7 +32,7 @@ WHAT I PLAN TO BUILD:
  
 Gathering of information and online news articles will be done through web scraping. Web scraping will be done using python coding language and then integrated into Azure's Blockchain to create a database that provides access of structured data to the public in seamless user experience. (https://medium.com/daratus/getting-ready-for-the-launch-84df49c9ca5b)
 
-1. Authentic sites such as the member attendance webpage ( http://164.100.47.194/Loksabha/Members/MemberAttendance.aspx ) will be used to gather all the details of the attendance and structure it into a database. The user can then search this database and get real-time information about the candidates' attendance.
+1. Authentic sites such as the member attendance webpage (for example) ( http://164.100.47.194/Loksabha/Members/MemberAttendance.aspx ) will be used to gather all the details of the attendance and structure it into a database. The user can then search this database and get real-time information about the candidates' attendance.
 
 2. The background qualifications and criminal history will be web scraped from the appropriate and trusted sources and then structures into an appropriate format. 
 ( https://www.indiatoday.in/india/story/modi-sarkar-2-0-has-22-ministers-with-criminal-cases-harsimrat-badal-richest-union-minister-1539887-2019-06-01 ) 
